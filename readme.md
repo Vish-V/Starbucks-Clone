@@ -15,7 +15,7 @@
 ### Screenshot
 
 
-Screenshot of solution
+Screenshot of Project
 ![image](https://user-images.githubusercontent.com/65409840/135741513-8267834e-2f88-4572-b7a5-291d39286dc8.png)
 
 
