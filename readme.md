@@ -40,6 +40,6 @@ Screenshot of solution
 
 ## Author
 
-- Website - [Vishwa](https://github.com/Vish-V)
+- Website - [Vishwa] (https://github.com/Vish-V)
 - Frontend Mentor - [@Vish-V] (https://www.frontendmentor.io/profile/Vish-V)
 - Linkedin - [Vishwa] (https://www.linkedin.com/in/vishwasubick/)
